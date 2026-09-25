@@ -1,0 +1,52 @@
+{
+  "datos_personales":{
+    "nombre":"Alexsander Mariano",
+    "apellidos":"Hinostroza Ramos",
+    "email":{
+      "empresa":"hinostroza.ralex@gmail.com",
+      "personal":"alexsanderpaloma@gmail.com",
+      "juegos":"ligthsenpai99@gmail.com"
+    }
+  },
+  "experiencia_profesional":[
+    {
+      "empresa":"Grupo Falabella",
+      "puesto":"Vendedor de Seguros",
+      "inicio":"Febrero,2026",
+      "final":"Mayo,2026"
+    },
+    {
+      "empresa":"Grupo Fratelli. SAC",
+      "puesto":"Supervisor de Riesgos",
+      "inicio":"Noviembre, 2025",
+      "final":"Febrero, 2026"
+    },
+    {
+      "empresa":"K y A",
+      "puesto":"Supervisor de Riesgos",
+      "inicio":"Noviembre, 2025",
+      "final":"Agosto,2025"
+    }
+  ],
+  "formacion":[
+    {
+      "Centro":"CEAC",
+      "Carrera":"ASIR"
+    },
+    {
+      "Centro":"UCSS",
+      "Carrera":"Ingeniria Ambiental"
+    }
+  ],
+  "idiomas":[
+    {
+      "lengua":"Ingles",
+      "nivel":"Medio"
+    },
+    {
+      "lengua":"Español",
+      "nivel":"Nativo"
+    }
+  ],
+  "hobbies":""
+}
