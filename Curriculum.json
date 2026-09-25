@@ -48,5 +48,17 @@
       "nivel":"Nativo"
     }
   ],
-  "hobbies":""
+  "hobbies":[
+    {
+      "hobbie":"Entrenamientos de Fuerza",
+      "habilidades":"Constancia y Empeño"
+    },
+    {
+      "hobbie":"Programacion",
+      "habilidades":"Creacion de codigos"
+    },
+    {
+      "hobbie":"Videojuegos",
+      "habilidades":"Concentracion y paciencia"
+    }]
 }
